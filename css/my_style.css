@@ -1,0 +1,17 @@
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+
+/* Accueil */
+
+section{
+	max-width: 1920px;
+	margin: 0;
+	padding: 0;
+}
+
+.imgAccueil{
+	opacity: 40%;
+}

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c5d3c76-f17c-4967-880e-ecf4452dd27d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1afP1wRxKvVWJK9VOOSxk41GMH2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/img/navbar" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img/tarif" />
+      <recent name="$PROJECT_DIR$/img/pdf" />
+      <recent name="$PROJECT_DIR$/img/contact" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c5d3c76-f17c-4967-880e-ecf4452dd27d" name="Default Changelist" comment="" />
+      <created>1587123463456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587123463456</updated>
+      <workItem from="1587123464708" duration="11604000" />
+      <workItem from="1587138961262" duration="759000" />
+      <workItem from="1587140000589" duration="13545000" />
+      <workItem from="1587456700783" duration="1590000" />
+      <workItem from="1587543806451" duration="118000" />
+      <workItem from="1587915177621" duration="749000" />
+      <workItem from="1587999677670" duration="23840000" />
+      <workItem from="1588089782249" duration="1719000" />
+      <workItem from="1588091726058" duration="22274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="945" y="305" key="#PHP" timestamp="1587140835311">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="945" y="305" key="#PHP/0.0.2560.1440/-1920.23.1920.1057/2560.23.1920.1177@0.0.2560.1440" timestamp="1587140835311" />
+    <state x="989" y="518" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588002259780">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="989" y="518" key="#com.intellij.fileTypes.FileTypeChooser/-1920.23.1920.1057/2560.23.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1588002259780" />
+    <state x="931" y="392" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588174224495">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="931" y="392" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1080/2560.0.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1588174224495" />
+    <state x="931" y="409" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.23.1920.1057/2560.23.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1588006823620" />
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.23.1920.1057/1920.23.1680.1027@0.0.1920.1080" timestamp="1587124930119" />
+    <state x="931" y="392" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440/-1920.0.1920.1080/2560.0.1920.1200@0.0.2560.1440" timestamp="1587127323562" />
+    <state x="781" y="359" key="SettingsEditor" timestamp="1588174263336">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="781" y="359" key="SettingsEditor/-1920.0.1920.1080/2560.0.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1588174263336" />
+    <state width="502" height="445" key="SwitcherDM" timestamp="1588099393760">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="502" height="445" key="SwitcherDM/-1920.0.1920.1080/2560.0.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1588099393760" />
+    <state x="957" y="552" key="com.intellij.ide.util.TipDialog" timestamp="1588091726089">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="957" y="552" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/2560.0.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1588091726089" />
+    <state x="957" y="566" key="com.intellij.ide.util.TipDialog/-2560.23.2560.1417/2560.23.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1587544139651" />
+    <state x="957" y="566" key="com.intellij.ide.util.TipDialog/-2560.23.2560.1417/2560.23.1680.1027/0.23.2560.1417@2560.23.1680.1027" timestamp="1587456706672" />
+    <state x="957" y="552" key="com.intellij.ide.util.TipDialog/0.0.2560.1440/-1920.0.1920.1080/2560.0.1920.1200@0.0.2560.1440" timestamp="1587139024746" />
+  </component>
+</project>
