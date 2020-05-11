@@ -11,24 +11,29 @@ img{
     max-width: 100%;
     height: auto;
 }
-.imgAccueil, .imgLocation, .imgPro, .imgRepair{
-    opacity: 40%;
-    max-width: 100%;
+
+.bulle{
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px 20px;
+    background-color: #f1f1f1;
+    opacity: 80%;
+    z-index: 2;
 }
-.titreHomeIntro, .textRentIntro, .titrePro, .textRepairIntro{
+body{
+    background-color: #f1f1f1;
+}
+.titreBandeau{
     position: absolute;
-    top: 50%;
+    top: 18%;
     left: 50%;
     transform:translate(-50%, -50%);
     color: black;
     z-index: 1;
-    font-size: 60px;
-    font-family: 'Bangers', cursive;
 }
 .titre_partie{
     padding: 30px 50px 0 50px;
-    font-family: 'Bangers', cursive;
-    font-size: 30px;
+    font-size: 40px;
 }
 .para_partie{
     margin-top: 5%;
@@ -40,10 +45,6 @@ img{
     justify-content: center;
     align-items: center;
 }
-
-
-
-
 
 /* Header */
 .bg-light{
@@ -141,7 +142,6 @@ iframe{
 
 
 
-
 /* Réparation */
 .textHookRepair{
     font-size: x-large;
@@ -151,7 +151,7 @@ iframe{
 .d-flex{
     flex-wrap: wrap;
 }
-div.gallery {
+.gallery, .big-gallery {
     border: 1px solid #ccc;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -162,8 +162,13 @@ div.gallery {
     grid-template: repeat(3, 100px) 50px 80px / repeat(3, 100px);
     border-radius: 5px;
 }
-div.gallery:hover {
+.gallery:hover,
+.big-gallery:hover{
     border: 1px solid #777;
+}
+.big-gallery{
+    width: 600px;
+    grid-template: repeat(3, 100px) 50px 80px / repeat(3, 200px);
 }
 div.desc {
     width: 250px;
@@ -171,7 +176,7 @@ div.desc {
     text-align: center;
 }
 /* CSS GRID */
-.divImg, .divImg1, .divImg2, .divImg3, .divImg4 {
+.divImg, .divImg1, .divImg2, .divImg3, .divImg4, .divImg5 {
     /* debut rangée / debut col / fin rang / fin col */
     grid-area:  1 / 1 / 4 / 4;
     background-size: contain;
@@ -189,6 +194,9 @@ div.desc {
 }
 .divImg4{
     background: url("../img/repair/IMG_1666.jpg") no-repeat 50% 50%;
+}
+.divImg5{
+    background: url("../img/repair/susphydrau.jpg") no-repeat 50% 50%;
 }
 .titre {
     grid-area: 4 / 1 / 5 / 4;
@@ -309,7 +317,6 @@ hr {
 }
 
 
-
 /* footer */
 footer{
     background-color: #363533 ;
@@ -329,6 +336,19 @@ h6{
     display: inline-block;
 }
 
+@media screen and (max-width: 500px){
+    .big-gallery{
+        width: 300px;
+        grid-template: repeat(3, 100px) 50px 120px / repeat(3, 100px);
+    }
+    .gallery, .big-gallery {
+        height: 470px;
+    }
+    .hrdisplay{
+        display: none;
+    }
+
+}
 
 @media screen and (min-width: 901px) and (max-width: 1024px) and (orientation: landscape){
 
@@ -344,14 +364,10 @@ h6{
 
     /* Accueil */
 
-    .titreHomeIntro, .textRentIntro, .titrePro, .textRepairIntro{
-        font-size: 30px;
+    .titreBandeau{
         top: 25%;
     }
-    .imgAccueil, .imgLocation, .imgPro, .imgRepair{
-        opacity: 50%;
-        max-width: 100%;
-    }
+
     .titre_partie{
         margin-top: 10%;
         padding: 15px 50px 0 50px;
@@ -401,11 +417,7 @@ h6{
         width: 150px;
         height: 40px;
     }
-    .imgAccueil, .imgLocation, .imgPro, .imgRepair{
-        opacity: 40%;
-        max-width: 100%;
-    }
-    .titreHomeIntro, .textRentIntro, .titrePro, .textRepairIntro{
+    .titreBandeau{
         font-size: 15px;
         position: relative;
         top: -50%;
@@ -487,6 +499,9 @@ h6{
     section{
         max-width: 1280px;
     }
+    .titreBandeau{
+        top: 25%;
+    }
     .titre_partie{
         margin-top: 10%;
         font-size: 18px;
@@ -505,6 +520,7 @@ h6{
     .navbar-light .navbar-nav .nav-link:visited{
         font-size: 12px;
     }
+
     .logoTitreHeader{
         width: 200px;
         height: 40px;
@@ -512,6 +528,9 @@ h6{
     /* Accueil */
     iframe{
         width: 400px;
+    }
+    .titreBandeau{
+        top: 25%;
     }
     .titre_partie{
         margin-top: 10%;
@@ -527,7 +546,6 @@ h6{
         top: 100px;
     }
 }
-
 
 @media screen and (min-width: 1921px)  {
     /* Accueil */

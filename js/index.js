@@ -31,7 +31,7 @@ btnClose.addEventListener('click', function(){
 });
 
 $('.carousel').carousel({
-    interval: 7000
+    interval: 4000
 });
 
 

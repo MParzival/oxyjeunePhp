@@ -4,8 +4,10 @@ require 'header.php';
 ?>
 
 <section id="pro" class="pro contenair">
-    <h1 class="titrePro text-center" >Professionnel</h1>
-    <img src="img/pro/pro7_1920_700.jpg" alt="rassemblement de vélos" class="imgPro">
+    <h1 class="titreBandeau text-center futura-bold bulle" >Professionnels</h1>
+    <img src="img/pro/bicycles-737190-bandeau9.jpg" alt="rassemblement de vélos" class="imgPro">
+
+
     <section class="row" id="partie1">
         <div class="col-lg-6">
             <img src="img/pro/pro2.jpg" alt="ancienneGareSaintMedarEnJalles" class="col6">
@@ -25,13 +27,13 @@ require 'header.php';
             <div class="text-center">
                 <h3 class="titre_partie">Un service de location pour tous !</h3>
                 <p class="para_partie">Vous dirigez un camping, hôtel, chambre d’hôtes ou autre et vous désirez proposer
-                    la location de vélos à vos clients, Oxy’jeune propose également des formules de locations
+                    la location de vélos à vos clients, Oxy’jeune propose également des formules de location
                     longue durée avec passage régulier d’un technicien durant le contrat. Mise en place
                     en début de saison, entretien le temps de la location et ramassage du parc de vélos à la fin de la saison. </p>
             </div>
         </div>
         <div class="col-lg-6">
-            <img src="img/pro/pro3.jpg" alt="ancienneGareSaintMedarEnJalles" class="col6">
+            <img src="img/pro/IMG_0803.jpg" alt="ancienneGareSaintMedarEnJalles" class="col6" style="width: 960px">
         </div>
     </section>
     <section class="row" id="partie3">

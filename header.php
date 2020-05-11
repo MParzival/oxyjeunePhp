@@ -17,10 +17,10 @@
     <meta name="description" content="OXY'JEUNE, spécialiste de la location de vélos et de la location de skis à Bordeaux.">
     <link  rel="stylesheet" type="text/css" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/jquery-ui.css">
-    <link  rel="stylesheet" type="text/css" href="css/my_style.css">
     <link  rel="stylesheet" type="text/css" href="css/general.css">
+    <link  rel="stylesheet" type="text/css" href="css/tarif.css">
+    <link  rel="stylesheet" type="text/css" href="css/my_style.css">
     <script src="https://kit.fontawesome.com/c4ba74bed4.js" crossorigin="anonymous"></script>
-    <link href="https://fonts.googleapis.com/css?family=Bangers&display=swap" rel="stylesheet">
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -45,8 +45,11 @@
             <li class="nav-item">
                 <a class="nav-link" href="repair.php">Entretiens/réparations</a>
             </li>
-            <li class="nav-item">
+            <!--<li class="nav-item">
                 <a class="nav-link" href="conseil.php">Conseil et partenaires</a>
+            </li>-->
+            <li class="nav-item">
+                <a class="nav-link" href="tarif.php">Tarifs</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="contact.php">Contact</a>

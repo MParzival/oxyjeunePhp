@@ -3,8 +3,8 @@ $title = "Une réparation c'est ici !";
 require 'header.php';
 ?>
 
-<h1 class="textRepairIntro text-center">Réparation / Atelier</h1>
-    <img src="img/repair/IMG_1675.jpg" alt="image d'un velo en reparation" class="imgRepair">
+<h1 class="titreBandeau text-center futura-bold bulle">Réparation / Atelier</h1>
+    <img src="img/repair/IMG_1675-bandeau2.jpg" alt="image d'un velo en reparation" class="imgRepair">
 <hr>
 <section class="container">
     <div class="row">
@@ -34,7 +34,7 @@ require 'header.php';
         </div>
     </div>
 </section>
-<hr class="container">
+<hr class="container hrdisplay">
 <section class="container mt-5">
     <div class="d-flex justify-content-around">
         <div class="gallery">
@@ -46,7 +46,7 @@ require 'header.php';
                 <hr>
             </div>
             <div class="btnSection">
-                <a href="img/tarif/forfait.pdf" target="_blank">Tarifs révision</a>
+                <a href="img/tarif/forfait2.pdf" target="_blank">Tarifs révision</a>
             </div>
         </div>
 
@@ -101,11 +101,26 @@ require 'header.php';
                 <hr>
             </div>
             <div class="btnSection">
-                <a href="img/tarif/roues.pdf" target="_blank">Tarifs cadre</a>
+                <a href="img/tarif/cadre.pdf" target="_blank">Tarifs cadre</a>
+            </div>
+        </div>
+
+        <div class="big-gallery">
+            <div class="divImg5"></div>
+            <div class="titre">
+                Prestation suspensions et hydraulique
+                <hr>
+            </div>
+            <div class="btnSection">
+                <a href="img/tarif/susp_hydrau.pdf" target="_blank">Tarifs suspensions et hydraulique</a>
             </div>
         </div>
 
     </div>
+
+
+
+
 </section>
 <?php
 require 'footer.php';

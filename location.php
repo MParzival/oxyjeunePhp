@@ -2,8 +2,10 @@
 $title = "Location pour particulier";
 require 'header.php';
 ?>
-    <h1 class="textRentIntro text-center">Location Particuliers</h1>
-    <img src="img/location/velo3bis1920-671.jpg" alt="groupe famille velo" class="imgLocation">
+
+    <h1 class="titreBandeau text-center futura-bold bulle">Particuliers</h1>
+    <img src="img/location/velo3bis-bandeau2.jpg" alt="groupe famille velo" class="imgLocation">
+
 <section id="rentBikeDescription" class="container-fluid">
     <div class="row">
         <div class="col-lg-12">
@@ -98,6 +100,31 @@ require 'header.php';
                 </div>
             </div>
         </div>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="card-deck p-5">
+                    <div class="card">
+                        <div class="card-header">Location Sacoche pour trekking </div>
+                        <div class="card-body m-0 p-0">
+                            <img class="card-img-top" src="img/location/IMG_1577.jpg" alt="Card image cap">
+                        </div>
+                        <div class="card-footer"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="card-deck p-5">
+                    <div class="card">
+                        <div class="card-header">Location Sacoche pour trekking </div>
+                        <div class="card-body m-0 p-0">
+                            <img class="card-img-top" src="img/location/IMG_1579.jpg" alt="Card image cap">
+                        </div>
+                        <div class="card-footer"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="container mt-5">
@@ -147,7 +174,7 @@ require 'header.php';
                 <p>
                     Nos vélos électriques sont équipés de batteries 11.6A ce qui vous assurera
                     une autonomie entre 70 et 100 kms (ATTENTION : l’autonomie varie fortement selon la corpulence du cycliste,
-                    le dénivelé rencontré ainsi que de la façon dont vous allez gérer celle-ci à l’aide des différents modes).<br>
+                    le dénivelé rencontré ainsi que de la façon dont vous allez gérer celle-ci à l’aide des différents modes d'assistance).<br>
                     <small>Vélos fournis avec antivols, casques, panier et kit de réparation pour crevaison sur demande.</small>
                 </p>
             </div>

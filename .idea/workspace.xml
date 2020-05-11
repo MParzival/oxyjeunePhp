@@ -1,16 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c5d3c76-f17c-4967-880e-ecf4452dd27d" name="Default Changelist" comment="" />
+    <list default="true" id="8c5d3c76-f17c-4967-880e-ecf4452dd27d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/tarif.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_1556.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home/bicycles-1845607-bandeau.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home/bike-2701828-bandeau.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/location/IMG_1577.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/location/IMG_1579.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/location/velo3bis-bandeau2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/location/velo3bis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pro/IMG_0803.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pro/IMG_1556-bandeau.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeauPro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeauPro2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeauPro3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/repair/IMG_1675-bandeau.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/repair/IMG_1675-bandeau2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/repair/susphydrau.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tarif/accessoire.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tarif/forfait2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tarif/susp_hydrau.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tarif/velo-bandeauTarif.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tarif.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/general.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/my_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/my_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/location/velo3bis1920-671.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/Direction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/img/tarif/direction.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/accessoires.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/forfait.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/img/tarif/forfait.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/freinage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/img/tarif/freinage.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/roues.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/img/tarif/roues.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/transmission.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/img/tarif/transmission.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location.php" beforeDir="false" afterPath="$PROJECT_DIR$/location.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro.php" beforeDir="false" afterPath="$PROJECT_DIR$/pro.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repair.php" beforeDir="false" afterPath="$PROJECT_DIR$/repair.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -19,20 +65,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$" />
     </include_path>
   </component>
   <component name="ProjectId" id="1afP1wRxKvVWJK9VOOSxk41GMH2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/location" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,16 +94,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/repair" />
+      <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$/fonts/futurama_round" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/navbar" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img/location" />
       <recent name="$PROJECT_DIR$/img/tarif" />
-      <recent name="$PROJECT_DIR$/img/pdf" />
-      <recent name="$PROJECT_DIR$/img/contact" />
+      <recent name="$PROJECT_DIR$/img/repair" />
+      <recent name="$PROJECT_DIR$/img/pro" />
+      <recent name="$PROJECT_DIR$/img/home" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -73,29 +126,47 @@
       <workItem from="1587915177621" duration="749000" />
       <workItem from="1587999677670" duration="23840000" />
       <workItem from="1588089782249" duration="1719000" />
-      <workItem from="1588091726058" duration="22274000" />
+      <workItem from="1588091726058" duration="25875000" />
+      <workItem from="1588255418558" duration="599000" />
+      <workItem from="1588328647711" duration="22915000" />
+      <workItem from="1588939282179" duration="9365000" />
+      <workItem from="1589014536330" duration="23000" />
+      <workItem from="1589014591011" duration="77000" />
+      <workItem from="1589015030970" duration="69000" />
+      <workItem from="1589113082369" duration="11726000" />
+      <workItem from="1589210881148" duration="307000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="945" y="305" key="#PHP" timestamp="1587140835311">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="945" y="305" key="#PHP/0.0.2560.1440/-1920.23.1920.1057/2560.23.1920.1177@0.0.2560.1440" timestamp="1587140835311" />
+    <state x="-1680" y="368" key="#Plugins" timestamp="1589210893100">
+      <screen x="-2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="-1680" y="368" key="#Plugins/-4480.0.1920.1080/-2560.0.2560.1440/0.0.1440.900@-2560.0.2560.1440" timestamp="1589210893100" />
     <state x="989" y="518" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588002259780">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="989" y="518" key="#com.intellij.fileTypes.FileTypeChooser/-1920.23.1920.1057/2560.23.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1588002259780" />
-    <state x="931" y="392" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588174224495">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="-1629" y="392" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589117889416">
+      <screen x="-2560" y="0" width="2560" height="1440" />
     </state>
     <state x="931" y="392" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1080/2560.0.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1588174224495" />
     <state x="931" y="409" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.23.1920.1057/2560.23.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1588006823620" />
+    <state x="-1629" y="392" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-4480.0.1920.1080/-2560.0.2560.1440/0.0.1440.900@-2560.0.2560.1440" timestamp="1589117889416" />
+    <state x="-1914" y="461" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-4928.0.1920.1080/-3008.0.3008.1692/0.0.1920.1200@-3008.0.3008.1692" timestamp="1588609660256" />
     <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.23.1920.1057/1920.23.1680.1027@0.0.1920.1080" timestamp="1587124930119" />
     <state x="931" y="392" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440/-1920.0.1920.1080/2560.0.1920.1200@0.0.2560.1440" timestamp="1587127323562" />
+    <state x="417" y="95" key="CommitChangelistDialog2" timestamp="1588628550668">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="417" y="95" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1588628550668" />
     <state x="781" y="359" key="SettingsEditor" timestamp="1588174263336">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -111,5 +182,9 @@
     <state x="957" y="566" key="com.intellij.ide.util.TipDialog/-2560.23.2560.1417/2560.23.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1587544139651" />
     <state x="957" y="566" key="com.intellij.ide.util.TipDialog/-2560.23.2560.1417/2560.23.1680.1027/0.23.2560.1417@2560.23.1680.1027" timestamp="1587456706672" />
     <state x="957" y="552" key="com.intellij.ide.util.TipDialog/0.0.2560.1440/-1920.0.1920.1080/2560.0.1920.1200@0.0.2560.1440" timestamp="1587139024746" />
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588628525665">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1588628525665" />
   </component>
 </project>

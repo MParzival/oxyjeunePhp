@@ -1,17 +1,44 @@
-img{
-	max-width: 100%;
-	height: auto;
-}
 
+body{
+	font-family: FuturaMedium, sans-serif;
+}
 
 /* Accueil */
 
-section{
-	max-width: 1920px;
-	margin: 0;
-	padding: 0;
+
+
+
+/* Police */
+
+@font-face {
+	font-family: "FuturaBold";
+	src: url("../fonts/Futura-Round-Font/FuturaRoundBold.ttf");
+}
+.futura-bold{
+	font-family: "FuturaBold", sans-serif ;
+	font-size: 60px;
 }
 
-.imgAccueil{
-	opacity: 40%;
+@font-face {
+	font-family: "FuturaMedium";
+	src: url("../fonts/Futura-Round-Font/FuturaRoundMedium.ttf");
+}
+.futura-medium{
+	font-family: "FuturaMedium", sans-serif ;
+}
+
+@media screen and (min-width: 1280px) and (max-width: 1620px){
+	.futura-bold{
+		font-size: 50px;
+	}
+}
+@media screen and (max-width: 900px){
+	.futura-bold{
+		font-size: 30px;
+	}
+}
+@media screen and (min-width: 901px) and (max-width: 1024px) and (orientation: landscape){
+	.futura-bold{
+		font-size: 30px;
+	}
 }
