@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c5d3c76-f17c-4967-880e-ecf4452dd27d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/OFF-LOGO-OXY.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/general.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repair.php" beforeDir="false" afterPath="$PROJECT_DIR$/repair.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/tarif" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,8 +60,8 @@
       <recent name="$PROJECT_DIR$/img/navbar" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/tarif" />
       <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/img/tarif" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img/location" />
       <recent name="$PROJECT_DIR$/img/repair" />
@@ -88,7 +93,7 @@
       <workItem from="1589014591011" duration="77000" />
       <workItem from="1589015030970" duration="69000" />
       <workItem from="1589113082369" duration="11726000" />
-      <workItem from="1589210881148" duration="4398000" />
+      <workItem from="1589210881148" duration="5140000" />
     </task>
     <servers />
   </component>

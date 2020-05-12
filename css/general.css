@@ -249,7 +249,7 @@ hr {
 }
 #contact-form{
     font-size: 20px;
-    background: white;
+    background: #f1f1f1;
     padding: 40px;
     border-radius: 10px;
 }
@@ -350,6 +350,12 @@ h6{
     }
     .hrdisplay{
         display: none;
+    }
+    .clickTarif{
+        font-size: 18px;
+    }
+    .smallScreen{
+        font-size: 18px;
     }
 
 }

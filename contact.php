@@ -5,8 +5,8 @@ require 'header.php';
 
 <div class="container">
     <div class="row">
-        <div class="col-md-5 text-center mt-2">
-            <img src="img/contact/logoOxyjeuneVertCalque+RondWeb.png" class="logoContact" alt="logoContact">
+        <div class="col-md-5 text-center mt-4">
+            <img src="img/OFF-LOGO-OXY.png" class="logoContact" alt="logoContact">
         </div>
         <div class="col-md-7 mt-2">
             <div class="listContact p-5">

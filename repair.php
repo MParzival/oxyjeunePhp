@@ -38,9 +38,9 @@ require 'header.php';
 <div class="container">
     <div class="row">
         <div class="col-lg-12">
-            <h3>Ci-dessous quelques prestations qui sont faites chez Oxy'jeune ! </h3>
+            <h3 class="smallScreen">Ci-dessous quelques prestations qui sont faites chez Oxy'jeune ! </h3>
             <div class="m-3">
-                <h3>Sinon <a href="img/tarif/referentiel_tarif_entretien_oxy.pdf" target="_blank" class="clickTarif">cliquez-ici </a> pour voir toutes nos prestations !</h3>
+                <h3 class="smallScreen">Sinon <a href="img/tarif/referentiel_tarif_entretien_oxy.pdf" target="_blank" class="clickTarif smallScreen">cliquez-ici </a> pour voir toutes nos prestations !</h3>
             </div>
         </div>
     </div>
