@@ -44,8 +44,9 @@ nav {
     letter-spacing: -5px;
     font-size: 50px;
     text-transform: uppercase;
-    font-family: 'Luckiest Guy', cursive;
-    color: #20cc41;
+    font-family: 'Short Stack', cursive;
+    font-weight: bold;
+    color: #00ae4d;
 }
 
 .icone {
@@ -121,7 +122,6 @@ section {
     z-index: 10;
     right: -300px;
     top: 0;
-
     background-color: #363533;
     overflow-x: hidden;
     transition: 0.5s;
@@ -140,7 +140,7 @@ section {
     padding: 8px;
     text-decoration: none;
     font-size: 36px;
-    color: #20cc21;
+    color: #00ae4d;
     display: block;
     transition: 0.3s;
 }

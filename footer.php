@@ -5,7 +5,7 @@
                 <i class="fas fa-map-pin mr-1"></i>
                 <h6 class="">Adresse :</h6>
                 <p class="adress">
-                Oxy'Jeune <br>
+                    <img src="img/Layer-1-copie.png" alt="logo oxyjeune"> <br>
                 Route du Caepe <br>
                 33160 Saint-Medard-en-Jalles
                 </p>

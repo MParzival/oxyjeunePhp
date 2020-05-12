@@ -2,52 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c5d3c76-f17c-4967-880e-ecf4452dd27d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/tarif.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_1556.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/home/bicycles-1845607-bandeau.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/home/bike-2701828-bandeau.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/location/IMG_1577.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/location/IMG_1579.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/location/velo3bis-bandeau2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/location/velo3bis.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro/IMG_0803.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro/IMG_1556-bandeau.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeau9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeauPro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeauPro2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro/bicycles-737190-bandeauPro3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/repair/IMG_1675-bandeau.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/repair/IMG_1675-bandeau2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/repair/susphydrau.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tarif/accessoire.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tarif/forfait2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tarif/susp_hydrau.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tarif/velo-bandeauTarif.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarif.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/LOGO-OXY-VERT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Layer-1-copie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tarif/Direction.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tarif/accessoires.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tarif/referentiel_tarif_entretien_oxy.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tarif/roue.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/general.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/my_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/my_style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/tarif.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/tarif.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/location/velo3bis1920-671.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tarif/Direction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/img/tarif/direction.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tarif/accessoires.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/accessoire.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/cadre.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/img/tarif/cadre.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/direction.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/tarif/forfait.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/img/tarif/forfait.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/forfait2.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/tarif/freinage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/img/tarif/freinage.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tarif/roues.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/img/tarif/roues.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/nettoyage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/img/tarif/nettoyage.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/roues.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/susp_hydrau.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/img/tarif/susp_hydrau.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tarif/tableau_forfait.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/tarif/transmission.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/img/tarif/transmission.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location.php" beforeDir="false" afterPath="$PROJECT_DIR$/location.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pro.php" beforeDir="false" afterPath="$PROJECT_DIR$/pro.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repair.php" beforeDir="false" afterPath="$PROJECT_DIR$/repair.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/location" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/tarif" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -94,18 +74,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/repair" />
       <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$/fonts/futurama_round" />
-      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/navbar" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/location" />
       <recent name="$PROJECT_DIR$/img/tarif" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img/location" />
       <recent name="$PROJECT_DIR$/img/repair" />
-      <recent name="$PROJECT_DIR$/img/pro" />
-      <recent name="$PROJECT_DIR$/img/home" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -134,7 +114,7 @@
       <workItem from="1589014591011" duration="77000" />
       <workItem from="1589015030970" duration="69000" />
       <workItem from="1589113082369" duration="11726000" />
-      <workItem from="1589210881148" duration="307000" />
+      <workItem from="1589210881148" duration="4008000" />
     </task>
     <servers />
   </component>

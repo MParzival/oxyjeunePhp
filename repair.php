@@ -35,6 +35,16 @@ require 'header.php';
     </div>
 </section>
 <hr class="container hrdisplay">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h2>Ci-dessous quelques prestations qui sont faites chez Oxy'jeune ! </h2>
+            <div class="m-3">
+                <h3>Sinon cliquez <a href="img/tarif/referentiel_tarif_entretien_oxy.pdf" target="_blank" class="clickTarif">ici </a> pour voir toutes nos prestations !</h3>
+            </div>
+        </div>
+    </div>
+</div>
 <section class="container mt-5">
     <div class="d-flex justify-content-around">
         <div class="gallery">
@@ -46,7 +56,7 @@ require 'header.php';
                 <hr>
             </div>
             <div class="btnSection">
-                <a href="img/tarif/forfait2.pdf" target="_blank">Tarifs révision</a>
+                <a href="img/tarif/forfait.pdf" target="_blank">Tarifs révision</a>
             </div>
         </div>
 
@@ -79,7 +89,7 @@ require 'header.php';
                 <hr>
             </div>
             <div class="btnSection">
-                <a href="img/tarif/roues.pdf" target="_blank">Tarifs roues</a>
+                <a href="img/tarif/roue.pdf" target="_blank">Tarifs roues</a>
             </div>
         </div>
 

@@ -62,6 +62,10 @@ require 'header.php';
                 </div>
             </div>
         </div>
+        <div class="d-flex justify-content-end">
+            <a href="tarif.php" class="btn btn-success">Voir les tarifs</a>
+        </div>
+
     </div>
     <div class="container mt-5">
         <div class="row">
@@ -99,6 +103,7 @@ require 'header.php';
                     </div>
                 </div>
             </div>
+
         </div>
 
         <div class="row">
@@ -124,6 +129,9 @@ require 'header.php';
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="d-flex justify-content-end">
+            <a href="tarif.php" class="btn btn-success">Voir les tarifs</a>
         </div>
     </div>
 
@@ -165,6 +173,9 @@ require 'header.php';
                 </div>
             </div>
         </div>
+        <div class="d-flex justify-content-end">
+            <a href="tarif.php" class="btn btn-success">Voir les tarifs</a>
+        </div>
     </div>
 
     <div class="container mt-5">
@@ -204,6 +215,9 @@ require 'header.php';
                 </div>
             </div>
         </div>
+        <div class="d-flex justify-content-end">
+            <a href="tarif.php" class="btn btn-success">Voir les tarifs</a>
+        </div>
     </div>
     <div class="container mt-5">
         <div class="row">
@@ -240,7 +254,9 @@ require 'header.php';
                     </div>
                 </div>
             </div>
-
+        </div>
+        <div class="d-flex justify-content-end">
+            <a href="tarif.php" class="btn btn-success">Voir les tarifs</a>
         </div>
     </div>
     <div class="container mt-5">
@@ -275,6 +291,9 @@ require 'header.php';
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="d-flex justify-content-end mb-5">
+            <a href="tarif.php" class="btn btn-success">Voir les tarifs</a>
         </div>
     </div>
 </section>
